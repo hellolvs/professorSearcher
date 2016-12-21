@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://D:/spark-1.4.1/lib/spark-assembly-1.4.1-hadoop2.6.0.jar!/" />
+    <libelement value="jar://D:/hbase-1.1.2/lib/hbase-client-1.1.2.jar!/" />
+    <libelement value="jar://D:/hbase-1.1.2/lib/hbase-common-1.1.2.jar!/" />
+    <libelement value="jar://D:/hbase-1.1.2/lib/hbase-protocol-1.1.2.jar!/" />
+    <libelement value="jar://D:/hbase-1.1.2/lib/hbase-server-1.1.2.jar!/" />
+    <libelement value="jar://D:/hbase-1.1.2/lib/protobuf-java-2.5.0.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.6" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="spark-assembly-1.4.1-hadoop2.6.0.jar">
+        <CLASSES>
+          <root url="jar://D:/spark-1.4.1/lib/spark-assembly-1.4.1-hadoop2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-client-1.1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/hbase-1.1.2/lib/hbase-client-1.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-common-1.1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/hbase-1.1.2/lib/hbase-common-1.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-protocol-1.1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/hbase-1.1.2/lib/hbase-protocol-1.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-server-1.1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/hbase-1.1.2/lib/hbase-server-1.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="protobuf-java-2.5.0.jar">
+        <CLASSES>
+          <root url="jar://D:/hbase-1.1.2/lib/protobuf-java-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
